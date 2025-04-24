@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Backend Developer | 🚀 Node.js Enthusiast <br>
-  🎓 Student at Cairo University | Faculty of Computers & AI | IS Department
+  🎓 Student at Cairo University | Faculty of Computers & Artificial Intelligenc | IS Department
 </p>
 
 ---
