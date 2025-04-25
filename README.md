@@ -10,7 +10,7 @@
 ### 🔧 About Me
 
 - 🎓 I'm a student at **Faculty of Computers & Artificial Intelligence, Cairo University**, majoring in **Information Systems**
-- 🌱 Currently diving deep into **Node.js**, **Express**, and **Spring Boot**
+- 🌱 Currently diving deep into **Node.js** and **Express**, 
 - 💻 I build backend systems using **JavaScript**
 - 🧠 Interested in scalability, clean architecture, and solving real-world problems
 - 💬 Ask me about anything related to **Backend**, **Node.js**, or **APIs**
