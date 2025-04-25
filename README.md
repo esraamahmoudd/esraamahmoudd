@@ -11,8 +11,7 @@
 
 - 🎓 I'm a student at **Faculty of Computers & Artificial Intelligence, Cairo University**, majoring in **Information Systems**
 - 🌱 Currently diving deep into **Node.js**, **Express**, and **Spring Boot**
-- 💻 I build backend systems using **JavaScript**, **Java**, **PHP**, **Python**, and **C++**
-- 🗃️ I'm exploring **Data Warehousing** and working with **SSIS**
+- 💻 I build backend systems using **JavaScript**
 - 🧠 Interested in scalability, clean architecture, and solving real-world problems
 - 💬 Ask me about anything related to **Backend**, **Node.js**, or **APIs**
 
